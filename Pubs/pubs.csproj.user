@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="packages\vistas\Autor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="packages\vistas\Descuentos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="packages\vistas\Editores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="packages\vistas\Empleado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="packages\vistas\InfoEditores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="packages\vistas\Regalias.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="packages\vistas\Tienda.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="packages\vistas\TituloAutor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="packages\vistas\Titulos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="packages\vistas\Trabajos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="packages\vistas\Ventas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
